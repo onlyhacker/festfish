@@ -1,7 +1,7 @@
 # FestFish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.It is a upgraded version of
 CamPhish
-![cheese](.\data\festfish.png)
+![festfish](https://1.bp.blogspot.com/-uVofOBCdEpo/XslVa6WsfTI/AAAAAAAAABA/nRxlr3RAJHkd6KMDsXrE-OYBm9wK6gWtACLcBGAsYHQ/s1600/festfish.png)
 
 # What is Festfish
 <p>FestFish is techniques to take cam shots of target's phone fornt camera or PC webcam. FestFish Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
