@@ -23,9 +23,9 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/FestFish
-cd FestFish
-bash FestFish.sh
+git clone https://github.com/onlyhacker/festfish
+cd festFish
+bash festfish.sh
 ```
 ## This Tool Tested On :
 <ul>
