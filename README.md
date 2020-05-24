@@ -20,7 +20,7 @@ CamPhish
 apt-get -y install php openssh git wget
 ```
 
-## Installing (Kali Linux/Termux):
+## Installing in (Kali Linux/Termux):
 
 ```
 git clone https://github.com/onlyhacker/festfish
