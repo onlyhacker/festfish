@@ -1,6 +1,6 @@
 # FestFish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.It is a upgraded version of
-CamPhish
+CamPhish(Victim must have to click on "allow camera" otherwise it will not work)
 ![festfish](https://1.bp.blogspot.com/-uVofOBCdEpo/XslVa6WsfTI/AAAAAAAAABA/nRxlr3RAJHkd6KMDsXrE-OYBm9wK6gWtACLcBGAsYHQ/s1600/festfish.png)
 
 # What is Festfish
